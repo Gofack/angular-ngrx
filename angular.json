@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "angular-rxjs"
+  "cli": {
+    "analytics": "2246a64f-478b-4e52-a8c7-f4119fdecbd0"
+  }
 }
